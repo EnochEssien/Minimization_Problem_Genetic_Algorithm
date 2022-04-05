@@ -6,5 +6,5 @@ The aim of this project was to create a program that can provide the closest sol
 
 As such for this challenge a genetic algorithm was implemented. 
 The two functions can be commented out of the code depending on which solution is being found. 
-As well as two "selection methods" were used to test the effectiveness, each can be swapped out as well. 
+As well as two "selection methods" were used to compare the effectiveness, each can be swapped out as well. 
 
