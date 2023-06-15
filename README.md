@@ -9,11 +9,11 @@ As well as two "selection methods" were used to compare the effectiveness, each 
 
 
 
-**Installation**
+## Installation
 
 There isn't much installation needed, as long as one has a suitable Python editor.
 
-**Dependecies and Libraries**
+## Dependecies and Libraries
 
 1. Python 3 and above
 2. random: Provides functions for generating random numbers.
@@ -21,7 +21,7 @@ There isn't much installation needed, as long as one has a suitable Python edito
 4. copy: Provides functions for creating copies of objects.
 5. matplotlib.pyplot: Provides functions for creating graphs and plots.
 
-**How It Works** 
+## How It Works 
 
 This script is quite flexible, used as a training tool to analyze how changing various functions and variables affects the end results and output.
 
@@ -80,7 +80,7 @@ This function calculates the total fitness of a population by summing up the fit
 This function generates a line graph of the best fitness value and average fitness value observed throughout the generations. It uses the matplotlib library to create the graph.
 
 
-**Example Output**
+## Example Output
 
 This is an example of what kind of output when one runs the algorithm, ![image](https://github.com/EnochEssien/Minimization_Problem_Genetic_Algorithm/assets/91120304/0fa70a3c-bed3-479d-9e3e-8fb8f9505264)
 
